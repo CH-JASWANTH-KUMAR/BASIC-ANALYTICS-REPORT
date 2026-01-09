@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
@@ -34,3 +35,40 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+=======
+# Basic Analytics Report Dashboard
+
+A premium, responsive analytics dashboard designed as a demo solution for real-estate businesses.  
+Built with modern frontend technologies and focused on clean UI, performance, and responsiveness.
+
+## 🚀 Features
+- KPI cards with smooth animations
+- Interactive charts using Recharts
+- Time-based filters (Week / Month / Year)
+- Glassmorphism UI with premium styling
+- Fully responsive layout (desktop, tablet, mobile)
+- Mock data (no backend dependency)
+
+## 🛠 Tech Stack
+- Next.js 14 (App Router)
+- React 18
+- Tailwind CSS
+- ShadCN UI
+- Recharts
+- Zustand
+- Framer Motion
+
+## 📊 Use Case
+This project demonstrates how real-estate companies can visualize:
+- Property views
+- Lead trends
+- Conversion metrics
+- Performance insights
+
+## 📦 Installation
+```bash
+git clone https://github.com/your-username/BASIC-ANALYTICS-REPORT.git
+cd BASIC-ANALYTICS-REPORT
+npm install
+npm run dev
+>>>>>>> ab8ace8922c12d38a8a09f28d290fd2c36722b8d
